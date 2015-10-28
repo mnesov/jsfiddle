@@ -1,0 +1,7 @@
+{
+  companyUuid: '123',
+  settings: {
+    url1: 'http://facebook.com',
+    url2: 'http://github.com'
+  }
+}
